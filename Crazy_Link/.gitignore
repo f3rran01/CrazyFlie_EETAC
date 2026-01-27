@@ -1,0 +1,34 @@
+# PyInstaller
+build/
+# Note: dist/ is not ignored to allow the executable to be tracked
+# If you want to ignore dist/, uncomment the line below:
+# dist/
+
+# Keep the .spec file for reproducible builds
+# *.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.eggs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
