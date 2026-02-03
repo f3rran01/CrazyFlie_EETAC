@@ -1,7 +1,5 @@
-[README.md](https://github.com/user-attachments/files/24879622/README.md)
-# CrazyLink - Biblioteca de Control para Drones Crazyflie
-
-CrazyLink es una biblioteca completa diseñada para facilitar el desarrollo de aplicaciones de control para el dron Crazyflie. 
+[README.md](https://github.com/user-attachments/files/24878768/README.md)
+# Implementacion de la libreria crazylink para control del dron crazyflie y una apliccion de demostracion
 
 ---
 
@@ -950,6 +948,13 @@ pip install opencv-python
 
 ---
 
+##  Videos
+
+- **Video Demostración Práctica:** [Ver en YouTube](https://www.youtube.com/watch?v=sl9J_cQ_rQ0&list=PLyAtSQhMsD4rqkWYW8TiQbUlFrzuBlDpS&index=2)
+- **Video Explicación del Código y Nuevas Funciones:** [Ver en YouTube](https://www.youtube.com/watch?v=KUMiH3gTn9k&list=PLyAtSQhMsD4rqkWYW8TiQbUlFrzuBlDpS)
+
+---
+
 ##  Referencias
 
 - **Crazyflie Documentation:** https://www.bitcraze.io/documentation/
@@ -959,6 +964,4 @@ pip install opencv-python
 
 ---
 
-**Versión:** 2.0 - Enero 2026
 
-**Estado:** Proyecto Completo - Versión Final
