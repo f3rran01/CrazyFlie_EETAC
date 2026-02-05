@@ -1,0 +1,25 @@
+# CrazyLink - Dependencias del proyecto
+# Instalar con: pip install -r requirements.txt
+
+# Crazyflie - Control del dron
+cflib>=0.1.25
+
+# Interfaz gráfica y visualización
+matplotlib>=3.7.0
+numpy>=1.24.0
+scipy>=1.10.0
+shapely>=2.0.0
+Pillow>=9.0.0
+
+# Control por joystick
+pygame>=2.5.0
+
+# Cámara y visión
+opencv-python>=4.8.0
+
+# Control por voz (IMPORTANTE: necesarios para habilitar el reconocimiento de voz)
+vosk>=0.3.45
+sounddevice>=0.4.6
+
+# Geocaging y coordenadas
+pyproj>=3.6.0
